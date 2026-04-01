@@ -1,3 +1,8 @@
+' RGB Vision — game engine
+' Kristian Virtanen, 2026
+' MIT License
+' ==============
+
 ' **********
 ' *        *
 ' * Gosubs *
