@@ -1,0 +1,81 @@
+https://voicemaker.in/
+John2 (M)/English, US
+# MUSIC
+
+## FILE: "assets\audio\simulacra.mp3"
+Simulacra by Scott Buckley
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+## FILE: "assets\audio\overture.mp3"
+Main Theme (Overture) | The Grand Score by Alexander Nakarada
+Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+## FILE: "assets\audio\Push.mp3"
+Push by Alex-Productions
+Creative Commons CC BY 3.0
+chosic.com/download-audio/53334/ 
+
+## FILE:  "assets\audio\Powerful-Trap.mp3"
+Strong by Alex-Productions
+Creative Commons CC BY 3.0
+chosic.com/download-audio/31959/
+
+## FILE: "assets\audio\The_Zone.mp3"
+The Zone by Komiku
+Creative Commons CC0 Public Domain
+chosic.com/download-audio/24594/
+
+## FILE: "assets\audio\virus.mp3"
+Virus by Alex-Productions
+Creative Commons CC BY 3.0
+chosic.com/download-audio/53333/ 
+
+## FILE: "assets\audio\We_all_gonna_die.mp3"
+We All Gonna Die !! by Loyalty Freak Music
+Creative Commons CC0 Public Domain
+chosic.com/download-audio/24292/
+
+## FILE: "assets\audio\R2D2.mp3"
+R2D2 Needs To Play Bass With Me by Frederic Lardon
+Creative Commons CC0 Public Domain
+chosic.com/download-audio/25424/
+
+## FILE: "assets\audio\Run-Amok.mp3"
+Run Amok by Kevin MacLeod
+Creative Commons CC BY 3.0
+chosic.com/download-audio/39324/
+
+# AUDIO
+
+
+## FILE: "assets\audio\coin.mp3"
+freesound_CrunchpixStudio
+Pixabay Content License
+pixabay.com/sound-effects/film-special-effects-drop-coin-384921/
+
+## FILE: "assets\audio\[X]coins.mp3"
+freesound_CrunchpixStudio & Kristian Virtanen
+Creative Commons CC0 Public Domain
+
+## FILE: "assets\audio\jump.mp3"
+Leszek_Szary (Freesound)
+Pixabay Content License
+pixabay.com/sound-effects/film-special-effects-toy-button-105724/
+
+## FILE: "assets\audio\game-over.mp3"
+DRAGON-STUDIO
+Pixabay Content License
+pixabay.com/sound-effects/horror-witch-laugh-401713/
+
+## FILE: "assets\audio\levelPassed.mp3"
+PeekabooLabCreative
+Pixabay Content License
+pixabay.com/sound-effects/film-special-effects-11l-victory-sound-with-t-1749487412779-357604/
+
+
+# Images
+
+## FILE "assets\img\intro.png"
+Copyright krisu.virtanen@gmail.com
