@@ -6,6 +6,7 @@ A tile-based platformer made for **[Jam for All BASIC Dialects #7](https://itch.
 **Engine:** [BazzBasic](https://ekbass.github.io/BazzBasic/)  
 **License:** MIT
 
+This repository is archived because I do not plan to develope this anymore after the Jam ends. Source is still usefull and good to play with BazzBasic. Edit it as you wish.
 ---
 
 ## Concept
