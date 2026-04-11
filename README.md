@@ -8,6 +8,14 @@ A tile-based platformer made for **[Jam for All BASIC Dialects #7](https://itch.
 
 ---
 
+## Update 12.04.2026 (ddmmyyyy)
+Updated version now uploaded.
+
+1. No instant game over anymore. Instead of returning to game menu after death, player now just needs to restart current level.
+2. Player can now see approx. 30% further.
+
+No fullscreen support, sorry. Original GameJam version is written so that it would require rewriting and redrawing too much stuff.
+
 ## Concept
 
 You navigate dark levels with a small light radius around you. The catch: the world
