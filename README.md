@@ -6,8 +6,6 @@ A tile-based platformer made for **[Jam for All BASIC Dialects #7](https://itch.
 **Engine:** [BazzBasic](https://ekbass.github.io/BazzBasic/)  
 **License:** MIT
 
-**Note:** This repository is archived because I do not plan to develope this anymore after the Jam ends. Source is still usefull and good to play with BazzBasic. Edit it as you wish.
-
 ---
 
 ## Concept
@@ -36,8 +34,17 @@ Cycle modes constantly to survive. Text characters (A–Z, 0–9) in levels are 
 
 ## Tile Reference
 
-<img width="1316" height="1286" alt="image" src="https://github.com/user-attachments/assets/c1b53992-1120-43dd-ae25-49f3b678ea14" />
-
+| Tile | Mode | Description |
+|------|------|-------------|
+| `#` | Green | Wall — solid, impassable |
+| `.` | Green | Empty space |
+| `!` | Green | Acid — instant death |
+| `?` | Green | Surprise tile — triggers a random effect |
+| `@` | Red | Enemy — patrols left/right |
+| `$` | Blue | Normal coin — points |
+| `&` | Blue | Mandatory coin — all must be collected to open exit |
+| `+` | Blue | Exit — leads to next level |
+| `-` | Blue | Player spawn point |
 
 ---
 

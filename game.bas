@@ -24,7 +24,7 @@ LET GAME_MW#      = 31
 LET GAME_MH#      = 15
 
 ' --- Light & modes ---
-LET GAME_LIGHT#   = 7
+LET GAME_LIGHT#   = 10
 LET GAME_GREEN#   = 0
 LET GAME_RED#     = 1
 LET GAME_BLUE#    = 2
@@ -57,7 +57,7 @@ GOTO [game:moduleEnd]
             gPlayLoop$ = false
         ELSEIF gAlive$ = false THEN
             GOSUB [game:showGameOver]
-            gPlayLoop$ = false
+            ' Level restarts automatically (gPlayLoop$ stays true)
         ELSEIF gLevelComplete$ = true THEN
             gLevelNum$ = gLevelNum$ + 1
             IF gLevelNum$ > MAX_LEVELS# THEN
