@@ -22,6 +22,7 @@ DEF FN Intro$()
     LET r$ = 0
     LET c$ = 0
     LET idx$ = 0
+    LET mBlue$ = RGB(25, 25, 112)
 
     DIM order$
     FOR r$ = 0 TO iData$("rows") - 1
@@ -65,7 +66,7 @@ DEF FN Intro$()
         FOR r$ = 0 TO iData$("rows") - 1
             FOR c$ = 0 TO iData$("cols") - 1
                 IF covered$(r$, c$) = 1 THEN
-                    LINE (c$ * iData$("block"), r$ * iData$("block"))-(c$ * iData$("block") + iData$("block"), r$ * iData$("block") + iData$("block")), RGB(25, 25, 112), BF
+                    LINE (c$ * iData$("block"), r$ * iData$("block"))-(c$ * iData$("block") + iData$("block"), r$ * iData$("block") + iData$("block")), mBlue$, BF
                 ENDIF
             NEXT
         NEXT
